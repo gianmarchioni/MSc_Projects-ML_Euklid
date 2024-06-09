@@ -6,3 +6,4 @@ This directory is self-sufficient and includes everything needed to perform feat
 - Preprocessed stocks and indices prices datasets, ending with `_ok.csv`.
 - A `utilities.py` file with custom calculations and plotting functions, written mainly to de-clutter the notebook.
 - The modified ANFIS modules `anfis.py`, `membership.py`, `experimental.py`, originally developed by (James Power)[https://github.com/jfpower/anfis-pytorch].
+- The project report `ML_EUKLID.pdf`
